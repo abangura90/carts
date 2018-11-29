@@ -1,5 +1,4 @@
-FROM  abangura90/carts
- 
+FROM  schoolofdevops/carts-maven 
  
 WORKDIR /opt/carts
  
